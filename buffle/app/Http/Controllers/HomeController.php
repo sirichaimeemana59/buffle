@@ -20,6 +20,19 @@ class HomeController extends Controller
     {
         return view('Login');
     }
+    public function LavelLogin()
+    {
+        return view('LavelLogin');
+    }
+    public function LoginEmployee()
+    {
+        return view('LoginEmployee');
+    }
+    public function LoginPerson()
+    {
+        return view('LoginPerson');
+    }
+
 
 
     /**

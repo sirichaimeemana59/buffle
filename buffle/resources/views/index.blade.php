@@ -3,10 +3,10 @@
     <header class="masthead">
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+                <h1 id="homeHeading">ระบบร้านบุฟเฟ่ต์หมูกระทะ</h1>
                 <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-                <a class="btn btn-primary btn-xl" href="/Login">เข้าสู่ระบบ</a>
+                <p>กรุณาสมัครสมาชิกเพื่อเข้าใช้งานระบบ</p>
+                <a class="btn btn-primary btn-xl" href="/LavelLogin">เข้าสู่ระบบ</a>
             </div>
         </div>
     </header>

@@ -14,3 +14,8 @@
 Route::get('/', 'HomeController@index');
 Route::get('/Login', 'HomeController@login');
 Route::get('/index', 'HomeController@index');
+Route::get('/LavelLogin', 'HomeController@LavelLogin');
+Route::get('/LoginEmployee', 'HomeController@LoginEmployee');
+Route::get('/LoginPerson', 'HomeController@LoginPerson');
+Route::get('/LavelLogin', 'HomeController@LavelLogin');
+

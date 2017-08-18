@@ -1,6 +1,6 @@
 @extends('layout.LoginUser')
-@section('LoginCustomer')
-<html>
+@section('LoginEmployee')
+<html >
 <head>
     <title></title>
     <style type="text/css">
@@ -12,10 +12,8 @@
         </style>
 </head>
 <body>
-<h2 class="font">เข้าสู่ระบบ</h2>
-<p class="font"> ( สำหรับสมาชิก )</p>
+<h3 class="font">เข้าสู่ระบบ</h3>
+<h4 class="font">( สำหรับพนักงาน )</h4>
 </body>
 </html>
-
-@endsection
-
+    @endsection
